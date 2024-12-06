@@ -1,7 +1,8 @@
 ## Hi I'm Jenna 👋
 
-💬 Ask me about Python, C++, C#, JavaSript, HTML CSS
+💬 Ask me about Python, C++, C#, JavaSript, HTML, and CSS
 📫 How to reach me: jmitani4@gmail.com
+
 <!--
 **jitani04/jitani04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
