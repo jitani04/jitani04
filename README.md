@@ -1,6 +1,7 @@
 ## Hi I'm Jenna 👋
 
 💬 Ask me about Python, C++, C#, JavaSript, HTML, and CSS
+
 📫 How to reach me: jmitani4@gmail.com
 
 <!--
