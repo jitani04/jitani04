@@ -1,6 +1,7 @@
 ## Hi I'm Jenna 👋
 
-💬 Ask me about Python, C++, C#, React, Next, HTML, and CSS
+💬 Ask me about Python, Javascript, Node.js, Typescript, C#, HTML, and CSS
+ (like React, FastAPI, .NET Core, Pytorch, etc)
 
 📫 How to reach me: jmitani4@gmail.com
 
